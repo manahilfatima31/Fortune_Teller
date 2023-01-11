@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>mainscreen.png</file>
+        <file>addfortunes.png</file>
+        <file>adminmenu.png</file>
+        <file>askquestion.png</file>
+        <file>login.png</file>
+        <file>lovecomp.png</file>
+        <file>lovemeter.png</file>
+        <file>menuscreen.png</file>
+        <file>signup.png</file>
+    </qresource>
+</RCC>
